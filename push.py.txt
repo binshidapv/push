@@ -1,0 +1,4 @@
+create respositary
+copy path
+git status
+git remote add
